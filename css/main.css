@@ -12,9 +12,7 @@
 	5. MEDIA QUERIES (@media)
 	
  -------------------------------------------- */
- 
- 
- 
+
 
 /*  --------------------------------------------
 
@@ -98,7 +96,9 @@ h4 {
 	}
 p:last-child {
 	margin-bottom: 0;
+	font-size: 14px;
 	}
+	
 /* LIGHT TEXT */
 .is-text-light {
 	color: #fff;
